@@ -12,7 +12,7 @@ const LandingPage = () => {
 
 
 
-
+// hello how are tua today mister 
     
   return (
     <div className="landing-page-container">
